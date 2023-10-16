@@ -15,7 +15,7 @@ def create_dataframe(rows, columns):
     return df
 
 
-st.title("Ayo's First Application :sunglasses:")
+st.title("soulmate's First Application :sunglasses:")
 st.header("My accounting software")
 
 data = create_dataframe(50, 15)
